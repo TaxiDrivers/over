@@ -1,4 +1,4 @@
-## Welkom bij de TaxiDrivers GitHub Page! Hier vind je alle informatie over ons! (TaxiDrivers)
+## Welkom bij de TaxiDrivers GitHub Page! Hier vind je alle informatie over ons!
 ![](https://github.com/TheFonix/Pterodactyl-Themes/blob/master/pteroBanner.png?)
 
 ## WijZijnTaxi
@@ -37,21 +37,21 @@ Bekijk onze terms van TaxiDrivers!
 ## Screenshots (Panels)
 
 ### Pterodactyl Panel (Half Custom)
-Screenshot
+Bekijk hier ons Pterodactyl Panel
 ![](https://github.com/TheFonix/Pterodactyl-Themes/blob/master/MasterThemes/PinkAnFluffy/ss/PinkAnFluffy.png?)
-Wil jij onze skin gebruiken? Voer dan het volgende commando in in je panel!
 ```
 curl link hier
 ```
 
 ### Klantenpaneel
-Screenshot
+Bekijk hier ons klantenpaneel!
 ![](https://github.com/TheFonix/Pterodactyl-Themes/blob/master/MasterThemes/TangoTwist/ss/TangoTwist.png?)
-Je krijgt toestemming in ons klanten paneel zodra je een product gekocht hebt!
 ```
 http://www.taxicoding.nl/klant
 ```
 
-## More Coming Soon!
+## TaxiDrivers Versie (v2.0 Beta)
 
-### Please note Legacy Themes are no longer supported by the newest versions of Pterodactyl, please only use supported themes! Using Older Themes on newer panels will result in lots of issues.
+### Heb je bugs/glitches gevonden? Meld het dan op ``http://www.taxicoding.nl/reports/`` Meer updates zullen later komen!
+
+Mvgr TaxiDrivers
